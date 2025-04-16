@@ -7,7 +7,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
 @EnableFeignClients
-@EnableDiscoveryClient
+//@EnableDiscoveryClient
 public class SpringOpenForeign1Application {
 
 	public static void main(String[] args) {
